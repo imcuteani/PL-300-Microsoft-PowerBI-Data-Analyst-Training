@@ -1,0 +1,42 @@
+data analysis lifecycle 
+
+  - Identifying the correct data 
+  - Cleaning the data (removing of duplicates, data profiling, column aggregation)  
+  - transforming the data 
+  - modeling of the data 
+  
+  
+  Scenario of Descriptive analytics 
+  
+  - summarize the large semantic models to describe outcomes to stakeholders
+  - using KPIs , the strategies can help tracking the success/failure of the key objectives 
+  - Metrics like ROIs are used and used to track the performance objectives. 
+  
+  e.g. reports of sales/financial data of an org. 
+  
+  Diagnostics Analysis 
+  
+  - help us to answer questions about the event anomalies, data anomalies, unexpected results 
+  - identify anomalies in the data. 
+  - collect the data which's related to this anomalies 
+  - use statistical techniques to discover relationships that can explain the anomalies
+  
+  
+  Predictive analysis 
+  
+  - use the historical data to identify the trends and determine the possibility of occurance in future 
+  - possibility of sales volume of an org for next 6 months
+  - statitics and ML models like neural networks, decision trees and regression
+  
+  Prescriptive analysis 
+  
+  - org can make data driven decisions while using precriptive analytics and allows business to make informed decisions during uncertainty 
+  - uses the ML models to find strategies and patterns in large semantic models 
+  - By analysing the past decisions and events, org can estimate the likelihood of different outcomes. 
+  
+  Cognitive analytics 
+  
+  - effective cognitive analytics is based on ML models 
+  - uses different ML / natural language processing concepts/algorithms to make sense of previously untapped data sources like Sales records data, 
+  Call center logs, weblogs, clickstream logs, product reviews  
+  
